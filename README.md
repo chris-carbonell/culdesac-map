@@ -9,5 +9,18 @@
 
 ## Example
 
+## Process Diagram
+
+## Resources
+
+* Madison, WI provides a very nice API here:<br>
+[https://gis-countyofdane.opendata.arcgis.com/datasets/parcels](https://gis-countyofdane.opendata.arcgis.com/datasets/parcels)
+
 ## To Do
+
 * create gif for example
+* create draw.io diagram
+* set up repo the same as the code
+
+data
+data/madison_data.csv
