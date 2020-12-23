@@ -59,7 +59,7 @@ if __name__ == "__main__":
 	        time.sleep(1)
 
 	    # save to CSV
-	    df_results.to_csv("./data/madison_data.csv")
+	    df_results.to_csv("../data/madison_raw.csv")
 
 	# Example of Response
 
