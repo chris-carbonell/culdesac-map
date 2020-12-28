@@ -4,8 +4,8 @@
 
 <b>Cul-de-sac Map</b> is a fun example of Leaflet that maps properties on cul-de-sacs in Madison, WI.
 <br>
-* interactive map built in JavaScript (Leaflet.js)
-* Python requests data from a couple of APIs and scrubs it into a GeoJSON for Leaflet
+* interactive map built with <code>streamlit</code> and <code>pydeck</code>
+* Python requests data from a public API and scrubs it for Streamlit
 
 ## Quickstart
 
