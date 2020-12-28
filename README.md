@@ -35,10 +35,10 @@ This code has only been tested on Windows 10 Home (64-bit)
 Python 3.8.5
 
 3. Knowledge<br>
- * Streamlit
- * geopy
- * requests
- * Madison API
+- Streamlit
+- geopy
+- requests
+- Madison API
 
 ## Resources
 
