@@ -2,7 +2,7 @@
 
 ## Overview
 
-<b>Cul-de-sac Map</b> is a fun example of Leaflet that maps properties on cul-de-sacs in Madison, WI.
+<b>Cul-de-sac Map</b> maps properties on cul-de-sacs in Madison, WI to demonstrate a fun example of Streamlit.
 <br>
 * interactive map built with <code>streamlit</code> and <code>pydeck</code>
 * Python requests data from a public API and scrubs it for Streamlit
