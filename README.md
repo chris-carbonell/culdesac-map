@@ -29,14 +29,16 @@
 ## Requirements
 
 1. Operating System<br>
-This code has only been tested on Ubuntu 20.04.1 LTS.
+This code has only been tested on Windows 10 Home (64-bit)
+
 2. Infrastructure<br>
-Python 3.8.0
+Python 3.8.5
+
 3. Knowledge<br>
-* Streamlit
-* geopy
-* requests
-* Madison API
+ * Streamlit
+ * geopy
+ * requests
+ * Madison API
 
 ## Resources
 
