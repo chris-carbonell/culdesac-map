@@ -7,9 +7,13 @@
 * interactive map built in JavaScript (Leaflet.js)
 * Python requests data from a couple of APIs and scrubs it into a GeoJSON for Leaflet
 
+## Quickstart
+
+	streamlit run python/map_app.py
+
 ## Example
 
-gif here
+![](demo/example.gif)
 
 ## Data Summary
 
@@ -20,10 +24,19 @@ gif here
 
 ## Process Diagram
 
-draw.io diagram here
-1. get_data.py -> madison_raw.csv
-2. madison_raw.csv -> scrub_data.py -> madison_scrub.csv
-3. madison_scrub.csv -> create_geojson.py -> geodata.geojson
+![](demo/process-diagram.png)
+
+## Requirements
+
+1. Operating System<br>
+This code has only been tested on Ubuntu 20.04.1 LTS.
+2. Infrastructure<br>
+Python 3.8.0
+3. Knowledge<br>
+* Streamlit
+* geopy
+* requests
+* Madison API
 
 ## Resources
 
@@ -33,8 +46,3 @@ draw.io diagram here
 [https://www.schooldigger.com/go/WI/schoolrank.aspx?level=3](https://www.schooldigger.com/go/WI/schoolrank.aspx?level=3)
 * Create GeoJSON<br>
 [https://geoffboeing.com/2015/10/exporting-python-data-geojson/](https://geoffboeing.com/2015/10/exporting-python-data-geojson/)
-
-## To Do
-
-* create gif for example
-* create draw.io diagram

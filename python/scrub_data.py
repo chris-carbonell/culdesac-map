@@ -73,6 +73,9 @@ if __name__ == "__main__":
 	# sum
 	df_madison['rank_total'] = df_madison['rank_elementary'] + df_madison['rank_middle'] + df_madison['rank_high']
 
+	# baths
+	df_madison['Baths'] = df_madison['FullBaths'].astype(float) + 0.5 * df_madison['HalfBaths'].astype(float)
+
 	# # tabulate
 	# ls_group = ['ElementarySchool', 'MiddleSchool', 'HighSchool', 
 	#             'rank_elementary', 'rank_middle', 'rank_high', 'rank_total']

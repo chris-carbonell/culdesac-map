@@ -1,0 +1,7 @@
+pandas
+requests
+numpy
+streamlit
+pydeck
+geopy
+datetime

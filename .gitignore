@@ -1,2 +1,12 @@
+# git
 .gitignore
+
+# jupyter
+/.ipynb_checkpoints
+
+# personal
 /data
+/python/*test.py
+/python/test*.py
+backup/*
+testing/*
